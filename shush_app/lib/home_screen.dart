@@ -7,6 +7,7 @@ const TextStyle messageHeader = TextStyle(
   letterSpacing: 1,
 );
 
+
 // const ButtonStyle buttonStyle = ButtonStyle(
 //   onPrimary: Colors.white,
 //   primary: Color.fromARGB(131, 239, 203, 44),
@@ -21,7 +22,7 @@ class HomeScreen extends StatelessWidget {
       body: Center(
         child: Column(
           children: <Widget>[
-            Text('Study Buddies', style: main_page.textStyle),
+            Text('Study Buddies', style: messageHeader),
             
             // Message Containers
             Container(

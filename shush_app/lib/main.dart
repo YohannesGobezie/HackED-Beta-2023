@@ -6,7 +6,11 @@ import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 
 // ...
-
+const TextStyle textStyle = TextStyle(
+  fontSize: 20,
+  fontWeight: FontWeight.bold,
+  letterSpacing: 1,
+);
 
 
 void main() async {

@@ -4,12 +4,7 @@ import 'package:shush_app/add_screen.dart';
 import 'package:shush_app/home_screen.dart';
 import 'package:shush_app/profile_screen.dart';
 
-const TextStyle _textStyle = TextStyle(
-  fontSize: 40,
-  fontWeight: FontWeight.bold,
-  letterSpacing: 2,
-  fontStyle: FontStyle.italic,
-);
+
 
 void signUserOut() {
   FirebaseAuth.instance.signOut();
