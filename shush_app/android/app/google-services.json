@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327742061526",
+    "project_id": "studibudi-217c0",
+    "storage_bucket": "studibudi-217c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327742061526:android:baef0b44f63df8a2f48277",
+        "android_client_info": {
+          "package_name": "com.example.shush_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuBN5NUkYB6Xhnu-VDiKaXKEtsAaKW-DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
